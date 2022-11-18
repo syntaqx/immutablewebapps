@@ -1,3 +1,8 @@
 theme: jekyll-theme-primer
+
 title: Immutable Web Apps
+description: Immutable Web Apps
+
 google_tag_manager: G-3JY6BHRKRM
+
+github: [metadata]

@@ -262,7 +262,4 @@ Achieving widespread support will require:
 
 ## ![Acknowledgements](icons/favicon-16x16.png) Acknowledgements
 
-_Immutable Web Apps_ was developed based on the research and experiences building web applications at [Meltwater](https://www.meltwater.com/). Learn more about the things we are doing at our engineering blog: [underthehood.meltwater.com](https://underthehood.meltwater.com/).
-
-immutablewebapps@gmail.com
-[@immutablewebapp](https://twitter.com/ImmutableWebApp)
+_Immutable Web Apps_ was origionally developed by [Meltwater](https://www.meltwater.com/).
