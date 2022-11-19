@@ -5,4 +5,5 @@ description: Immutable Web Apps
 
 google_tag_manager: G-3JY6BHRKRM
 
-github: [metadata]
+github:
+  - metadata
